@@ -5,7 +5,7 @@ namespace ScaleXY\NovaImageCropper;
 use Laravel\Nova\Fields\VaporImage;
 use Illuminate\Support\Facades\Storage;
 
-class ImageCropper extends VaporImage
+class VaporImageCropper extends VaporImage
 {
     /**
      * The field's component.
